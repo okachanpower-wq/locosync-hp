@@ -1,0 +1,6 @@
+{
+  "name": "LOCOSYNC | 伴走型・業務改善システム開発",
+  "description": "千葉県野田市を拠点に、作って終わりにしない、伴走型・業務改善システム開発を提供するLOCOSYNCのランディングページです。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=JetBrains+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Noto Sans JP', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+  --color-brand-blue: #0F2C59;
+  --color-brand-gold: #d4af37;
+  --color-brand-gold-dark: #b89324;
+  --color-brand-orange: #FF8C00;
+  --color-brand-orange-dark: #e07b00;
+  --color-brand-red: #D32F2F;
+}
+
+body {
+  font-family: 'Noto Sans JP', sans-serif;
+  color: #334155;
+  background-color: #f8fafc;
+}
+
+/* Custom classic border/table styling */
+.classic-border {
+  border: 1px solid #d1d5db;
+}
+.classic-table-th {
+  background-color: #f3f4f6;
+  border-bottom: 2px solid #374151;
+}
+
+
