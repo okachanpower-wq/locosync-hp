@@ -17,7 +17,7 @@ export default function Pricing({ onScrollTo, onSelectPlan }: PricingProps) {
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold text-[#0f172a] mb-2.5">料金プラン</h2>
           <p className="text-center text-[#d4af37] font-medium tracking-widest text-sm">
-            分かりやすい初期費用 ＋ サブスクモデル
+            分かりやすい初期費用 と サブスクモデル
           </p>
         </div>
 
@@ -30,7 +30,7 @@ export default function Pricing({ onScrollTo, onSelectPlan }: PricingProps) {
               </span>
               <h3 className="text-xl font-bold text-[#1a2a3a] mt-4 mb-2">初期開発費</h3>
               <div className="text-2xl font-bold text-[#1a2a3a] mb-4 pb-4 border-b border-gray-100 flex items-baseline gap-1">
-                <span>¥100,000〜</span>
+                <span>¥30,000〜</span>
                 <span className="text-xs font-normal text-gray-500">(税込)</span>
               </div>
               <p className="text-xs text-gray-500 leading-relaxed mb-6 min-h-[60px]">
